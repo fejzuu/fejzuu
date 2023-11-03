@@ -1,5 +1,6 @@
-<h1 align="center">Awesome GitHub Profile README
-Hi 👋, I'm Max
+<h1 align="center">Hi 👋, I'm Max
+
+<i>A curated list of awesome Github Profile READMEs</i>
 
 💬 Ask me about Plugin minecraft, Java
 📫 How to reach me: 
