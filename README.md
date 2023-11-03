@@ -1,7 +1,9 @@
+<h1 align="center">Awesome GitHub Profile README
 Hi 👋, I'm Max
 
+💬 Ask me about Plugin minecraft, Java
 📫 How to reach me: 
-- Discord: fejzu_
+- email: fejzu@gmail.com or discord: fejzu
 
 
 
